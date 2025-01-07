@@ -1,10 +1,3 @@
-/*
-* Names: Vu Nguyen
-* netID: vnguy7
-* G#: 01390056
-* Lecture section: 004
-* Lab section: 208
-*/
 // The Board method
 public class Board {
     //field
